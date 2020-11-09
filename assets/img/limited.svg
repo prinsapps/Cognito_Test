@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="162px" height="36px" viewBox="0 0 162 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 62 (91390) - https://sketch.com -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Desktop" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.793643043">
+        <g id="Marcus" transform="translate(-1337.000000, -3851.000000)">
+            <g id="Group" transform="translate(1337.000000, 3851.000000)">
+                <g id="Group-8" opacity="0.561383929" fill="#FFFFFF">
+                    <rect id="Rectangle" x="9" y="0" width="153" height="36" rx="8"></rect>
+                    <polygon id="Triangle" transform="translate(9.000000, 18.000000) rotate(-90.000000) translate(-9.000000, -18.000000) " points="9 9 24 27 -6 27"></polygon>
+                </g>
+                <text id="Limited-availability" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="14" font-weight="400" line-spacing="17" fill="#000C36">
+                    <tspan x="27.587" y="23">Limited availability</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>
